@@ -1,4 +1,4 @@
-// оюбкнб юкейяюмдп
+// Oleg Stepanov
 
 #include <windows.h>
 #include <stdio.h>
